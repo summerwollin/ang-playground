@@ -11,6 +11,6 @@
 1. Add angular, jQuery, and bootstrap scripts in the head tag
 1. Add `ng-app` to the html tag
 1. Add bootstrap input field, header
-1. Add `ng-model="yourName"` to input field in order to add user input to the header with angular
+1. Add `ng-model="yourName"` to input field in order to add user input to the header with angular and `{{yourName}}`
 
 ### This was made using Angular's "The Basics" setup guide at angularjs.org
