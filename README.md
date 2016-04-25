@@ -8,8 +8,8 @@
   "start": "http-server -c-1 -o"
   ```
 1. Create index.html and README.md
+1. Add angular, jQuery, and bootstrap scripts in the head tag
 1. Add ng-app to the html tag
-1. Add angular and bootstrap scripts in the head tag
 1. You are now read to start using angular!
 
 This was made using Angular's "The Basics" setup guide at angularjs.org
