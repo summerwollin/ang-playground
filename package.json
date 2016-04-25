@@ -1,0 +1,20 @@
+{
+  "name": "ang-playground",
+  "version": "1.0.0",
+  "description": "Instructions:",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summerwollin/ang-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summerwollin/ang-playground/issues"
+  },
+  "homepage": "https://github.com/summerwollin/ang-playground#readme"
+}
