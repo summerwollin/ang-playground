@@ -9,15 +9,16 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
   </head>
   <body>
-    <div>
-      <h1>Hello {{yourName}}!</h1>
-      <hr>
-      <form>
+    <div class="container">
+      <h1 class="page-header">Hello {{yourName}}!</h1>
+      <div class="form-horizontal">
         <div class="form-group">
-          <label>Name:</label><input type="text" class="form-control" ng-model="yourName" placeholder="Enter a name here">
+          <label class="col-sm-2 control-label">Name:</label>
+          <div class="col-sm-5">
+            <input type="text" class="form-control" ng-model="yourName" placeholder="Enter a name here">
+          </div>
         </div>
-      </form>
-      <hr>
+      </div>
     </div>
   </body>
 </html>
