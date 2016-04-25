@@ -13,4 +13,9 @@
 1. Add bootstrap input field, header
 1. Add `ng-model="yourName"` to input field in order to add user input to the header with angular and `{{yourName}}`
 
+### To Run:
+
+1. Fork clone, npm install
+1. `npm start`
+
 ### This was made using Angular's "The Basics" setup guide at angularjs.org
